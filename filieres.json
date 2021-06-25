@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "60d5a95b5941a22258a5b7c6"
+  },
+  "departement": [],
+  "nom_filiere": "TDI",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5a9635941a22258a5b7c7"
+  },
+  "departement": [],
+  "nom_filiere": "TRI",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5ad55d7aad600e85b2621"
+  },
+  "departement": [],
+  "nom_filiere": "SMI",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5ad5cd7aad600e85b2622"
+  },
+  "departement": [],
+  "nom_filiere": "SMA",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5ad65d7aad600e85b2623"
+  },
+  "departement": [],
+  "nom_filiere": "SMPC",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d635c1bc581903d4df5443"
+  },
+  "departement": [],
+  "nom_filiere": "SEM",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d635cebc581903d4df5444"
+  },
+  "departement": [],
+  "nom_filiere": "DSI",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d635d8bc581903d4df5445"
+  },
+  "departement": [],
+  "nom_filiere": "MDW",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d635debc581903d4df5446"
+  },
+  "departement": [],
+  "nom_filiere": "RSI",
+  "niveau": "A",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d635e4bc581903d4df5447"
+  },
+  "departement": [],
+  "nom_filiere": "AA",
+  "niveau": "A",
+  "__v": 0
+}]

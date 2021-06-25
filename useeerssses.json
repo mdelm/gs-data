@@ -1,0 +1,610 @@
+[{
+  "_id": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD001",
+  "cin": "75893021",
+  "nom": "Ben Che3Chou3",
+  "prenom": "Abd Samad",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email@email.com",
+  "password": "$2b$10$Ls.8dfXz6e6OaLKjKTkbZ.cZjkly6iRqQukiCNtugDTPfLy0qw6wW",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD002",
+  "cin": "75893022",
+  "nom": "Boutoulout",
+  "prenom": "Hani",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email2@email.com",
+  "password": "$2b$10$ys.dkltKNeR9o2ExLGlQeepyo82rU6GomybDoyPKsTGFupxBa59Yi",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD003",
+  "cin": "75893023",
+  "nom": "Sade99i",
+  "prenom": "Salima",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email3@email.com",
+  "password": "$2b$10$7MiUIUs4eDHW0j0rPSXFJuQLpKNtVYbTLw0wTRWzDzXGHDxvBlX0C",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD004",
+  "cin": "75893024",
+  "nom": "Afra",
+  "prenom": "Mohamed Amine",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email4@email.com",
+  "password": "$2b$10$zBEFfKB/C1dPGYEWeeaKmOLcrR78dxFnGnaStneelrZsGgl8o3Pca",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD005",
+  "cin": "75893025",
+  "nom": "Lahrech",
+  "prenom": "Imane",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email5@email.com",
+  "password": "$2b$10$DVSsaMDuv61cYWjLuIB9yOG.UhLRbAf2khjy3NMTjUVlLO4xAJNQa",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD006",
+  "cin": "75893026",
+  "nom": "Aamiri",
+  "prenom": "Soumia",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email6@email.com",
+  "password": "$2b$10$zTKwSicXpAyrmeZ0ETAcROl/yBpAN7i6zzKZgSJBG3CDcRBiN0eZ2",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD007",
+  "cin": "75893027",
+  "nom": "Aamiri",
+  "prenom": "M'hamed",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email7@email.com",
+  "password": "$2b$10$KGdl3s7t9sCpHucRs2tlS.4wztJowmsJdbPMempPKYKb4ArTdCJ6y",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD008",
+  "cin": "75893028",
+  "nom": "Ben Said",
+  "prenom": "Brahim",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email8@email.com",
+  "password": "$2b$10$pw6IWgs/nOvCLo1Y4RVQUeXI.57Jt9GTaGdiqsV2yrRpoO88seEWu",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD009",
+  "cin": "75893029",
+  "nom": "Fonti",
+  "prenom": "Sara",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email9@email.com",
+  "password": "$2b$10$iw3oHZNhy3cDowndRA6ZVuZKr97HTNZ5cyDSO0Kl5uJfDG1WZK7R.",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD010",
+  "cin": "75893030",
+  "nom": "Chaouch",
+  "prenom": "Charaf Din",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email10@email.com",
+  "password": "$2b$10$QHPP9L94.6dGj0GEU3aA.ekWoSD0jd7N7.sGVMWhcelUBPMtpjj52",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD011",
+  "cin": "75893031",
+  "nom": "Lhatri",
+  "prenom": "Mohamed",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email11@email.com",
+  "password": "$2b$10$T0ztIMxvHX/A0Pvtg6NC7eyJiBn7GRuoT3uCAgLlPhro1yXr9/wjm",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD012",
+  "cin": "75893032",
+  "nom": "Lharcha",
+  "prenom": "Naser Din",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email12@email.com",
+  "password": "$2b$10$XhXgZyq6BfBsJl1zWzL6y.5c8IuWej0M7QGw0K7oMIK/HF8DcWd9e",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD013",
+  "cin": "75893033",
+  "nom": "Al Ammari",
+  "prenom": "Mohamed",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email13@email.com",
+  "password": "$2b$10$eEn0Ntwprrjy/FlpGQ/DcO7y0J2O8uZmxYVTEiR58ofvLbjtyme.e",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD014",
+  "cin": "75893034",
+  "nom": "Hajji",
+  "prenom": "Youssef",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email14@email.com",
+  "password": "$2b$10$TNXVkxx8wAQZqOCCnJpReOpFES25uLlXZoeGFEMAjk6aXeNxRpGN2",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b911f22bf819fc3361b1"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD015",
+  "cin": "75893035",
+  "nom": "Achbab",
+  "prenom": "Afaf",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email15@email.com",
+  "password": "$2b$10$12vaVxfl/iS6M96XB7q6G.mLD3RBNlMZW6c1iTl/Y50j1QO5rcOWi",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD016",
+  "cin": "75893036",
+  "nom": "Bouadil",
+  "prenom": "Nailla",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email16@email.com",
+  "password": "$2b$10$paXeojd5JgzwIioHg5WgE.HdOoFAO0spi015XPG1/p6db3oa.mGC6",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b936f22bf819fc3361b3"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD017",
+  "cin": "75893037",
+  "nom": "Mter",
+  "prenom": "Achraf",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email17@email.com",
+  "password": "$2b$10$RG3gSppZvyD1GfgnuPvGxOjV220f4bkqtzt8SmwbvDWyIMn6jtf0S",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b949f22bf819fc3361b4"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD018",
+  "cin": "75893038",
+  "nom": "Mokhrati",
+  "prenom": "Fatima",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email18@email.com",
+  "password": "$2b$10$otKcL1XiHTQLuClNa2ceWuBSxXj3Nk7RnO9soaIbgM9bAIRzIgrYe",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b95cf22bf819fc3361b5"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD019",
+  "cin": "75893039",
+  "nom": "Imras",
+  "prenom": "Imane",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email19@email.com",
+  "password": "$2b$10$ftj6CbS.wxqsl30WZ9pYGea9YdEptiN41xjdbHAadEC/6F9K5eNhK",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b973f22bf819fc3361b6"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD020",
+  "cin": "75893040",
+  "nom": "Mahmoudi",
+  "prenom": "Hamza",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email20@email.com",
+  "password": "$2b$10$lq7M0/.R1gTh2GFx5stZHO3LXpT2vQGryRyXhBrPaQBekh4aUSzzO",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d5b99cf22bf819fc3361b8"
+  },
+  "filiere": [],
+  "matiere": [],
+  "salle": [],
+  "__t": "etudiant",
+  "matricule": "ETUD021",
+  "cin": "75893041",
+  "nom": "El Haouari",
+  "prenom": "Soulaimane",
+  "civilite": "0",
+  "date_naissance": {
+    "$date": "1998-02-01T00:00:00Z"
+  },
+  "lieu_naissance": "B",
+  "adresse": "adresse",
+  "email": "email21@email.com",
+  "password": "$2b$10$ktjWZsm6cHp3itHs2l1x9uKMp17C29mWMOVI3W8A78FwckIZ8rlKS",
+  "Baccalaureat": "C",
+  "mention": "bien",
+  "parent": "parent",
+  "gsm": "12345698",
+  "annee": 2021,
+  "moyenne": "0",
+  "Groupe": "grp1",
+  "emailParent": "emailparent@email.com",
+  "__v": 0
+}]
