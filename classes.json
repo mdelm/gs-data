@@ -92,4 +92,48 @@
     "$oid": "60d635c1bc581903d4df5443"
   },
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60d685422b942f126826fee9"
+  },
+  "etudiants": [],
+  "matieres": [],
+  "nom_classe": "DSI 3.1",
+  "filliere": {
+    "$oid": "60d635c1bc581903d4df5443"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6854b2b942f126826feea"
+  },
+  "etudiants": [],
+  "matieres": [],
+  "nom_classe": "MDW 3.1",
+  "filliere": {
+    "$oid": "60d635c1bc581903d4df5443"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d685512b942f126826feeb"
+  },
+  "etudiants": [],
+  "matieres": [],
+  "nom_classe": "RSI 3.1",
+  "filliere": {
+    "$oid": "60d635c1bc581903d4df5443"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d685562b942f126826feec"
+  },
+  "etudiants": [],
+  "matieres": [],
+  "nom_classe": "AA 3.1",
+  "filliere": {
+    "$oid": "60d635c1bc581903d4df5443"
+  },
+  "__v": 0
 }]
