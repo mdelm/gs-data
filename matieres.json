@@ -1,279 +1,6 @@
 [{
   "_id": {
-    "$oid": "60d5afb9d2fbbb113c9a6845"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Physique Quantique",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:28:09.400Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:28:09.400Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5afc9d2fbbb113c9a6846"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Physique Statistique",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:28:25.845Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:28:25.845Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5afd4d2fbbb113c9a6847"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Electrostatique",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:28:36.044Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:28:36.044Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b132d2fbbb113c9a6848"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Algebre 1",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:34:26.101Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:34:26.101Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b136d2fbbb113c9a6849"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Algebre 2",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:34:30.815Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:34:30.815Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b140d2fbbb113c9a684a"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Analyse 1",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:34:40.964Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:34:40.964Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b144d2fbbb113c9a684b"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Analyse 2",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:34:44.757Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:34:44.757Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b149d2fbbb113c9a684c"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Analyse 3",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:34:49.184Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:34:49.184Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b155d2fbbb113c9a684d"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Analyse Numérique",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:35:01.314Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:35:01.314Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b168d2fbbb113c9a684e"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Analyse Complexe",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:35:20.567Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:35:20.567Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b176d2fbbb113c9a684f"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Algorithmique",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:35:34.066Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:35:34.066Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b17fd2fbbb113c9a6850"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Programmation pyton",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:35:43.852Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:35:43.852Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d5b184d2fbbb113c9a6851"
-  },
-  "absence": [],
-  "enseignant": [],
-  "module": [],
-  "salle": [],
-  "etudiant": [],
-  "nom": "Programmation C++",
-  "libelle": "A",
-  "note_ds": "0",
-  "coef": "1",
-  "note_exams": "0",
-  "createdAt": {
-    "$date": "2021-06-25T10:35:48.391Z"
-  },
-  "updatedAt": {
-    "$date": "2021-06-25T10:35:48.391Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60d6385cbc581903d4df5449"
+    "$oid": "60e31c3e2320990528edab42"
   },
   "absence": [],
   "enseignant": [],
@@ -285,16 +12,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:11:08.637Z"
+    "$date": "2021-07-05T14:50:38.343Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:11:08.637Z"
+    "$date": "2021-07-05T14:50:38.343Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d63881bc581903d4df544a"
+    "$oid": "60e31c4d2320990528edab43"
   },
   "absence": [],
   "enseignant": [],
@@ -306,16 +34,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:11:45.302Z"
+    "$date": "2021-07-05T14:50:53.116Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:11:45.302Z"
+    "$date": "2021-07-05T14:50:53.116Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d638a5bc581903d4df544b"
+    "$oid": "60e31c582320990528edab44"
   },
   "absence": [],
   "enseignant": [],
@@ -327,16 +56,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:12:21.457Z"
+    "$date": "2021-07-05T14:51:04.923Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:12:21.457Z"
+    "$date": "2021-07-05T14:51:04.923Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d638c8bc581903d4df544c"
+    "$oid": "60e31c622320990528edab45"
   },
   "absence": [],
   "enseignant": [],
@@ -348,16 +78,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:12:56.244Z"
+    "$date": "2021-07-05T14:51:14.967Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:12:56.244Z"
+    "$date": "2021-07-05T14:51:14.967Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d638edbc581903d4df544d"
+    "$oid": "60e31c722320990528edab46"
   },
   "absence": [],
   "enseignant": [],
@@ -369,16 +100,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:13:33.376Z"
+    "$date": "2021-07-05T14:51:30.410Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:13:33.376Z"
+    "$date": "2021-07-05T14:51:30.410Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d6391bbc581903d4df544e"
+    "$oid": "60e31c7e2320990528edab47"
   },
   "absence": [],
   "enseignant": [],
@@ -390,16 +122,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:14:19.139Z"
+    "$date": "2021-07-05T14:51:42.667Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:14:19.139Z"
+    "$date": "2021-07-05T14:51:42.667Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d63933bc581903d4df544f"
+    "$oid": "60e31c8a2320990528edab48"
   },
   "absence": [],
   "enseignant": [],
@@ -411,16 +144,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:14:43.055Z"
+    "$date": "2021-07-05T14:51:54.475Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:14:43.055Z"
+    "$date": "2021-07-05T14:51:54.475Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d6398bbc581903d4df5450"
+    "$oid": "60e31c962320990528edab49"
   },
   "absence": [],
   "enseignant": [],
@@ -432,16 +166,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:16:11.709Z"
+    "$date": "2021-07-05T14:52:06.656Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:16:11.709Z"
+    "$date": "2021-07-05T14:52:06.656Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d63a66bc581903d4df5451"
+    "$oid": "60e31ca12320990528edab4a"
   },
   "absence": [],
   "enseignant": [],
@@ -453,16 +188,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:19:50.282Z"
+    "$date": "2021-07-05T14:52:17.445Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:19:50.282Z"
+    "$date": "2021-07-05T14:52:17.445Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d63a81bc581903d4df5452"
+    "$oid": "60e31cab2320990528edab4b"
   },
   "absence": [],
   "enseignant": [],
@@ -474,16 +210,17 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:20:17.233Z"
+    "$date": "2021-07-05T14:52:27.309Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:20:17.233Z"
+    "$date": "2021-07-05T14:52:27.309Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d63a9cbc581903d4df5453"
+    "$oid": "60e31cb52320990528edab4c"
   },
   "absence": [],
   "enseignant": [],
@@ -495,32 +232,254 @@
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "1",
   "createdAt": {
-    "$date": "2021-06-25T20:20:44.992Z"
+    "$date": "2021-07-05T14:52:37.155Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:20:44.992Z"
+    "$date": "2021-07-05T14:52:37.155Z"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60d63d66bc581903d4df5455"
+    "$oid": "60e31cc42320990528edab4d"
   },
   "absence": [],
   "enseignant": [],
   "module": [],
   "salle": [],
   "etudiant": [],
-  "nom": "Dévelopment Mobile Avancé",
-  "libelle": "Dévelopment Mobile Avancé",
+  "nom": "Atelier Service Web 1",
+  "libelle": "Atelier Service Web 1",
   "note_ds": "0",
   "coef": "1",
   "note_exams": "0",
+  "semestre": "2",
   "createdAt": {
-    "$date": "2021-06-25T20:32:38.535Z"
+    "$date": "2021-07-05T14:52:52.455Z"
   },
   "updatedAt": {
-    "$date": "2021-06-25T20:32:38.535Z"
+    "$date": "2021-07-05T14:52:52.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31ce92320990528edab4e"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Atelier Intégration et déploiment Web 1",
+  "libelle": "Atelier Intégration et déploiment Web 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:53:29.910Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:53:29.910Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31cf72320990528edab4f"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Tech de recherche d'emploi et marketing de sio 1",
+  "libelle": "Tech de recherche d'emploi et marketing de sio 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:53:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:53:43.636Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d032320990528edab50"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Project embarqué tp 1",
+  "libelle": "Project embarqué tp 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:53:55.557Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:53:55.557Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d0d2320990528edab51"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Atelier SoC tp 1",
+  "libelle": "Atelier SoC tp 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:54:05.052Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:54:05.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d172320990528edab52"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Atelier prototypage rapide des applications Embarqué 1",
+  "libelle": "Atelier prototypage rapide des applications Embarqué 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:54:15.111Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:54:15.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d222320990528edab53"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Preparing TOEIC 1",
+  "libelle": "Preparing TOEIC 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:54:26.749Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:54:26.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d2d2320990528edab54"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "fondement IOT 1",
+  "libelle": "fondement IOT 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:54:37.678Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:54:37.678Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d362320990528edab55"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Atelier Dévelopment Mobile Avancé 1",
+  "libelle": "Atelier Dévelopment Mobile Avancé 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:54:46.725Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:54:46.725Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d432320990528edab56"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Atelier IOT 1",
+  "libelle": "Atelier IOT 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:54:59.792Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:54:59.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e31d7e2320990528edab57"
+  },
+  "absence": [],
+  "enseignant": [],
+  "module": [],
+  "salle": [],
+  "etudiant": [],
+  "nom": "Dévelopment Mobile Avancé 1",
+  "libelle": "Dévelopment Mobile Avancé 1",
+  "note_ds": "0",
+  "coef": "1",
+  "note_exams": "0",
+  "semestre": "2",
+  "createdAt": {
+    "$date": "2021-07-05T14:55:58.475Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T14:55:58.475Z"
   },
   "__v": 0
 }]
