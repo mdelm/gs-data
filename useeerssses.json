@@ -607,4 +607,61 @@
   "Groupe": "grp1",
   "emailParent": "emailparent21@email.com",
   "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee654109d0c20940a81391"
+  },
+  "departement": [],
+  "matiere": [],
+  "__t": "enseignant",
+  "matricule": "ENSEI001",
+  "password": "$2b$10$r4oc73cjWD26vJs8z1tNLOAmvYwXbfDhZbnsiWMTDlVIKzox/LOd6",
+  "cin": "12345678",
+  "nom": "harrabi",
+  "prenom": "mokhtar",
+  "date_naissance": {
+    "$date": "1980-01-01T00:00:00Z"
+  },
+  "adresse": "addresse",
+  "GSM": "12345678",
+  "email": "ensei001@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee657109d0c20940a81392"
+  },
+  "departement": [],
+  "matiere": [],
+  "__t": "enseignant",
+  "matricule": "ENSEI002",
+  "password": "$2b$10$AA/I/T3N4ae6b8ZTJgLRouFkv7l96oSFHtoH2xX9HbCQZUKq4g9bO",
+  "cin": "12345679",
+  "nom": "bn salah",
+  "prenom": "bassma",
+  "date_naissance": {
+    "$date": "1980-01-01T00:00:00Z"
+  },
+  "adresse": "addresse",
+  "GSM": "12345679",
+  "email": "ensei002@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ee659409d0c20940a81393"
+  },
+  "departement": [],
+  "matiere": [],
+  "__t": "enseignant",
+  "matricule": "ENSEI003",
+  "password": "$2b$10$kkfsV7OnbItIxVrXqudjlOLrPzmr4OaJiXEmMug0zw/.ZHI9o/Y1m",
+  "cin": "12345680",
+  "nom": "kachoukh",
+  "prenom": "yassin",
+  "date_naissance": {
+    "$date": "1980-01-01T00:00:00Z"
+  },
+  "adresse": "addresse",
+  "GSM": "12345680",
+  "email": "ensei003@gmail.com",
+  "__v": 0
 }]
