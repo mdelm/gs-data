@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "60f1ac6e2880f700dc939bf0"
+  },
+  "nom": "Entreprise 1",
+  "adresse": "Entreprise 1 adresse",
+  "email": "entreprse1@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ac7b2880f700dc939bf1"
+  },
+  "nom": "Entreprise 2",
+  "adresse": "Entreprise 2 adresse",
+  "email": "entreprse2@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ac852880f700dc939bf2"
+  },
+  "nom": "Entreprise 3",
+  "adresse": "Entreprise 3 adresse",
+  "email": "entreprse3@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ac8e2880f700dc939bf3"
+  },
+  "nom": "Entreprise 4",
+  "adresse": "Entreprise 4 adresse",
+  "email": "entreprse4@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ac962880f700dc939bf4"
+  },
+  "nom": "Entreprise 5",
+  "adresse": "Entreprise 5 adresse",
+  "email": "entreprse5@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1ac9e2880f700dc939bf5"
+  },
+  "nom": "Entreprise 6",
+  "adresse": "Entreprise 6 adresse",
+  "email": "entreprse6@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1aca62880f700dc939bf6"
+  },
+  "nom": "Entreprise 7",
+  "adresse": "Entreprise 7 adresse",
+  "email": "entreprse7@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1acad2880f700dc939bf7"
+  },
+  "nom": "Entreprise 8",
+  "adresse": "Entreprise 8 adresse",
+  "email": "entreprse8@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 8",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1acb42880f700dc939bf8"
+  },
+  "nom": "Entreprise 9",
+  "adresse": "Entreprise 9 adresse",
+  "email": "entreprse9@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1acbd2880f700dc939bf9"
+  },
+  "nom": "Entreprise 10",
+  "adresse": "Entreprise 10 adresse",
+  "email": "entreprse10@gmail.com",
+  "telephone": "0123456789",
+  "fax": "9876543210",
+  "specialite": "specialite 10",
+  "__v": 0
+}]

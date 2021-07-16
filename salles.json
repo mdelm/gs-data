@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "60f1f98f17e8c60a2838344f"
+  },
+  "matiere": [],
+  "etudiant": [],
+  "nom": "LM2.3-MF",
+  "libelle": "LM2.3-MF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1f99717e8c60a28383450"
+  },
+  "matiere": [],
+  "etudiant": [],
+  "nom": "LM2.1-MF",
+  "libelle": "LM2.1-MF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f1f99b17e8c60a28383451"
+  },
+  "matiere": [],
+  "etudiant": [],
+  "nom": "LM2.2-MF",
+  "libelle": "LM2.2-MF",
+  "__v": 0
+}]

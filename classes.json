@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "60e322552320990528edab58"
+    "$oid": "60d64089bc581903d4df5457"
   },
   "etudiants": [
     {
@@ -46,90 +46,45 @@
       "$oid": "60d5b8fdf22bf819fc3361b0"
     },
     {
-      "$oid": "60d5b911f22bf819fc3361b1"
-    },
-    {
       "$oid": "60d5b924f22bf819fc3361b2"
-    },
-    {
-      "$oid": "60d5b936f22bf819fc3361b3"
-    },
-    {
-      "$oid": "60d5b949f22bf819fc3361b4"
-    },
-    {
-      "$oid": "60d5b95cf22bf819fc3361b5"
-    },
-    {
-      "$oid": "60d5b973f22bf819fc3361b6"
     }
   ],
   "matieres": [
     {
-      "$oid": "60e31c3e2320990528edab42"
+      "$oid": "60d6385cbc581903d4df5449"
     },
     {
-      "$oid": "60e31c4d2320990528edab43"
+      "$oid": "60d63881bc581903d4df544a"
     },
     {
-      "$oid": "60e31c582320990528edab44"
+      "$oid": "60d638a5bc581903d4df544b"
     },
     {
-      "$oid": "60e31c622320990528edab45"
+      "$oid": "60d638c8bc581903d4df544c"
     },
     {
-      "$oid": "60e31c722320990528edab46"
+      "$oid": "60d638edbc581903d4df544d"
     },
     {
-      "$oid": "60e31c7e2320990528edab47"
+      "$oid": "60d6391bbc581903d4df544e"
     },
     {
-      "$oid": "60e31c8a2320990528edab48"
+      "$oid": "60d63933bc581903d4df544f"
     },
     {
-      "$oid": "60e31c962320990528edab49"
+      "$oid": "60d6398bbc581903d4df5450"
     },
     {
-      "$oid": "60e31ca12320990528edab4a"
+      "$oid": "60d63a66bc581903d4df5451"
     },
     {
-      "$oid": "60e31cab2320990528edab4b"
+      "$oid": "60d63a81bc581903d4df5452"
     },
     {
-      "$oid": "60e31cb52320990528edab4c"
+      "$oid": "60d63a9cbc581903d4df5453"
     },
     {
-      "$oid": "60e31cc42320990528edab4d"
-    },
-    {
-      "$oid": "60e31ce92320990528edab4e"
-    },
-    {
-      "$oid": "60e31cf72320990528edab4f"
-    },
-    {
-      "$oid": "60e31d032320990528edab50"
-    },
-    {
-      "$oid": "60e31d0d2320990528edab51"
-    },
-    {
-      "$oid": "60e31d172320990528edab52"
-    },
-    {
-      "$oid": "60e31d222320990528edab53"
-    },
-    {
-      "$oid": "60e31d2d2320990528edab54"
-    },
-    {
-      "$oid": "60e31d362320990528edab55"
-    },
-    {
-      "$oid": "60e31d432320990528edab56"
-    },
-    {
-      "$oid": "60e31d7e2320990528edab57"
+      "$oid": "60d63d66bc581903d4df5455"
     }
   ],
   "nom_classe": "SEM 3.1",
@@ -139,46 +94,46 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e3226f2320990528edab59"
+    "$oid": "60d685422b942f126826fee9"
   },
   "etudiants": [],
   "matieres": [],
   "nom_classe": "DSI 3.1",
   "filliere": {
-    "$oid": "60d635cebc581903d4df5444"
+    "$oid": "60d635c1bc581903d4df5443"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e322782320990528edab5a"
+    "$oid": "60d6854b2b942f126826feea"
   },
   "etudiants": [],
   "matieres": [],
   "nom_classe": "MDW 3.1",
   "filliere": {
-    "$oid": "60d635d8bc581903d4df5445"
+    "$oid": "60d635c1bc581903d4df5443"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e322832320990528edab5b"
+    "$oid": "60d685512b942f126826feeb"
   },
   "etudiants": [],
   "matieres": [],
   "nom_classe": "RSI 3.1",
   "filliere": {
-    "$oid": "60d635debc581903d4df5446"
+    "$oid": "60d635c1bc581903d4df5443"
   },
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e3228f2320990528edab5c"
+    "$oid": "60d685562b942f126826feec"
   },
   "etudiants": [],
   "matieres": [],
   "nom_classe": "AA 3.1",
   "filliere": {
-    "$oid": "60d635e4bc581903d4df5447"
+    "$oid": "60d635c1bc581903d4df5443"
   },
   "__v": 0
 }]

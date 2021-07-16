@@ -1,72 +1,66 @@
-[
-	{
-	  "_id": {
-	    "$oid": "60c03e70cbfea8118c58751e"
-	  },
-	  "matieres": [
-	  	{
-	      "$oid": "60c03d15cbfea8118c587523"
-	    },
-	    {
-	      "$oid": "60c03d15cbfea8118c587524"
-	    }
-	  ],
-	  "nom": "Programmation",
-	  "libelle": "Programmation",
-	  "__v": 0
-	},
-	{
-	  "_id": {
-	    "$oid": "60c03e70cbfea8118c587511"
-	  },
-	  "matieres": [
-	  	{
-	      "$oid": "60c03d15cbfea8118c587522"
-	    }
-	  ],
-	  "nom": "Resaux",
-	  "libelle": "Resaux",
-	  "__v": 0
-	},
-	{
-	  "_id": {
-	    "$oid": "60c03e70cbfea8118c587513"
-	  },
-	  "matieres": [
-	  	{
-	      "$oid": "60c03d15cbfea8118c587520"
-	    },
-	    {
-	      "$oid": "60c03d15cbfea8118c587521"
-	    }
-	  ],
-	  "nom": "Berautique",
-	  "libelle": "Berautique",
-	  "__v": 0
-	},
-	{
-	  "_id": {
-	    "$oid": "60c03e70cbfea8118c587514"
-	  },
-	  "matieres": [
-	  	{
-	      "$oid": "60c03d15cbfea8118c587525"
-	    },
-	    {
-	      "$oid": "60c03d15cbfea8118c587526"
-	    }
-	  ],
-	  "nom": "Service Web",
-	  "libelle": "Service Web",
-	  "__v": 0
-	},
-	{
-	  "_id": {
-	    "$oid": "60c03e70cbfea8118c587515"
-	  },
-	  "matieres": [],
-	  "nom": "Base de donneé",
-	  "libelle": "Base de donneé",
-	  "__v": 0
-	},
-]
+[{
+  "_id": {
+    "$oid": "60c03e70cbfea8118c58751e"
+  },
+  "matieres": [
+    {
+      "$oid": "60c03d15cbfea8118c587523"
+    },
+    {
+      "$oid": "60c03d15cbfea8118c587524"
+    }
+  ],
+  "nom": "Programmation",
+  "libelle": "Programmation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c03e70cbfea8118c587511"
+  },
+  "matieres": [
+    {
+      "$oid": "60c03d15cbfea8118c587522"
+    }
+  ],
+  "nom": "Resaux",
+  "libelle": "Resaux",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c03e70cbfea8118c587513"
+  },
+  "matieres": [
+    {
+      "$oid": "60c03d15cbfea8118c587520"
+    },
+    {
+      "$oid": "60c03d15cbfea8118c587521"
+    }
+  ],
+  "nom": "Berautique",
+  "libelle": "Berautique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c03e70cbfea8118c587514"
+  },
+  "matieres": [
+    {
+      "$oid": "60c03d15cbfea8118c587525"
+    },
+    {
+      "$oid": "60c03d15cbfea8118c587526"
+    }
+  ],
+  "nom": "Service Web",
+  "libelle": "Service Web",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c03e70cbfea8118c587515"
+  },
+  "matieres": [],
+  "nom": "Base de donneé",
+  "libelle": "Base de donneé",
+  "__v": 0
+}]

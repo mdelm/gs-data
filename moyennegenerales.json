@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f55"
+  },
+  "matricule": "ETUD001",
+  "nom": "Ben Che3Chou3",
+  "prenom": "Abd Samad",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "15.00",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.75",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f56"
+  },
+  "matricule": "ETUD002",
+  "nom": "Boutoulout",
+  "prenom": "Hani",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f57"
+  },
+  "matricule": "ETUD003",
+  "nom": "Sade99i",
+  "prenom": "Salima",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f58"
+  },
+  "matricule": "ETUD004",
+  "nom": "Afra",
+  "prenom": "Mohamed Amine",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f59"
+  },
+  "matricule": "ETUD005",
+  "nom": "Lahrech",
+  "prenom": "Imane",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f5a"
+  },
+  "matricule": "ETUD006",
+  "nom": "Aamiri",
+  "prenom": "Soumia",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f5b"
+  },
+  "matricule": "ETUD007",
+  "nom": "Aamiri",
+  "prenom": "M'hamed",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f5c"
+  },
+  "matricule": "ETUD008",
+  "nom": "Ben Said",
+  "prenom": "Brahim",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f5d"
+  },
+  "matricule": "ETUD009",
+  "nom": "Fonti",
+  "prenom": "Sara",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f5e"
+  },
+  "matricule": "ETUD010",
+  "nom": "Chaouch",
+  "prenom": "Charaf Din",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f5f"
+  },
+  "matricule": "ETUD011",
+  "nom": "Lhatri",
+  "prenom": "Mohamed",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f60"
+  },
+  "matricule": "ETUD012",
+  "nom": "Lharcha",
+  "prenom": "Naser Din",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f61"
+  },
+  "matricule": "ETUD013",
+  "nom": "Al Ammari",
+  "prenom": "Mohamed",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f62"
+  },
+  "matricule": "ETUD014",
+  "nom": "Hajji",
+  "prenom": "Youssef",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9de6fcc95751e100d6f63"
+  },
+  "matricule": "ETUD016",
+  "nom": "Bouadil",
+  "prenom": "Nailla",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "classe": "SEM 3.1",
+  "annee_universitaire": "2020/2021",
+  "note_semestre1": "14.75",
+  "note_semestre2": "14.50",
+  "moyenne_generale": "14.63",
+  "deliberation": "admis",
+  "__v": 0
+}]

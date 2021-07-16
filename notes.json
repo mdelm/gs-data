@@ -1,11 +1,27 @@
 [{
   "_id": {
-    "$oid": "60e32b3d36acc902885de4e2"
+    "$oid": "60d66fcb32ae4d1510426003"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d66fcb32ae4d1510426004"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
@@ -16,172 +32,108 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4eb"
+    "$oid": "60d66fcb32ae4d1510426005"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
+    "$oid": "60d5b7d5f22bf819fc3361a4"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4ec"
+    "$oid": "60d66fcb32ae4d1510426006"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
+    "$oid": "60d5b7eef22bf819fc3361a5"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4ed"
+    "$oid": "60d66fcb32ae4d1510426007"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b8e4f22bf819fc3361af"
+    "$oid": "60d5b807f22bf819fc3361a6"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4ee"
+    "$oid": "60d66fcb32ae4d1510426008"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b8fdf22bf819fc3361b0"
+    "$oid": "60d5b823f22bf819fc3361a7"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4ef"
+    "$oid": "60d66fcb32ae4d1510426009"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
+    "$oid": "60d5b85cf22bf819fc3361a9"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4f0"
+    "$oid": "60d66fcb32ae4d151042600a"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b924f22bf819fc3361b2"
+    "$oid": "60d5b874f22bf819fc3361aa"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4f1"
+    "$oid": "60d66fcb32ae4d151042600b"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4f2"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4f3"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4f4"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4e7"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
+  "type_note": "exam",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
@@ -192,10 +144,586 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3d36acc902885de4e1"
+    "$oid": "60d66fcb32ae4d151042600c"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d66fcb32ae4d151042600d"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d66fcb32ae4d151042600e"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d66fcb32ae4d151042600f"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d66fcb32ae4d1510426010"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d66fcb32ae4d1510426011"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054af6"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054af7"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054af8"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054af9"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054afa"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054afb"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054afc"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054afd"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054afe"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054aff"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054b00"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054b01"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054b02"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054b03"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d677c6614ce7113c054b04"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa0"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00def9e"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00def9f"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa1"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00def9d"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa2"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa3"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa4"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa5"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa6"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa7"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa8"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defa9"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defaa"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d740aa63226910d00defab"
+  },
+  "matiere": {
+    "$oid": "60d63d66bc581903d4df5455"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7451263226910d00defac"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
@@ -208,106 +736,26 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3d36acc902885de4e4"
+    "$oid": "60d7451263226910d00defad"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
   "note": "14",
   "etudiant": {
-    "$oid": "60d5b7eef22bf819fc3361a5"
+    "$oid": "60d5b7bbf22bf819fc3361a3"
   },
   "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b3e36acc902885de4e5"
+    "$oid": "60d7451263226910d00defae"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b807f22bf819fc3361a6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4ea"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4e8"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b85cf22bf819fc3361a9"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4e6"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3e36acc902885de4e9"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "14",
-  "etudiant": {
-    "$oid": "60d5b874f22bf819fc3361aa"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b3d36acc902885de4e3"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
@@ -320,62 +768,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4f5"
+    "$oid": "60d7451263226910d00defaf"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b76ef22bf819fc33619f"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de4f6"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de4f7"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de4f8"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b7eef22bf819fc3361a5"
   },
@@ -384,14 +784,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4f9"
+    "$oid": "60d7451263226910d00defb0"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b807f22bf819fc3361a6"
   },
@@ -400,14 +800,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4fa"
+    "$oid": "60d7451263226910d00defb1"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b823f22bf819fc3361a7"
   },
@@ -416,14 +816,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4fb"
+    "$oid": "60d7451263226910d00defb2"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b837f22bf819fc3361a8"
   },
@@ -432,14 +832,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4fc"
+    "$oid": "60d7451263226910d00defb3"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b85cf22bf819fc3361a9"
   },
@@ -448,14 +848,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4fd"
+    "$oid": "60d7451263226910d00defb4"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b874f22bf819fc3361aa"
   },
@@ -464,14 +864,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4fe"
+    "$oid": "60d7451263226910d00defb5"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b892f22bf819fc3361ab"
   },
@@ -480,94 +880,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7736acc902885de4ff"
+    "$oid": "60d7451263226910d00defb6"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de500"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b924f22bf819fc3361b2"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de501"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de502"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de503"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32b7736acc902885de504"
-  },
-  "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b8a9f22bf819fc3361ac"
   },
@@ -576,14 +896,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7836acc902885de505"
+    "$oid": "60d7451263226910d00defb7"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b8c3f22bf819fc3361ad"
   },
@@ -592,14 +912,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7836acc902885de506"
+    "$oid": "60d7451263226910d00defb8"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b8e4f22bf819fc3361af"
   },
@@ -608,14 +928,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7836acc902885de507"
+    "$oid": "60d7451263226910d00defb9"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
+    "$oid": "60d638a5bc581903d4df544b"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b8fdf22bf819fc3361b0"
   },
@@ -624,270 +944,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32b7836acc902885de508"
+    "$oid": "60d7451263226910d00defba"
   },
   "matiere": {
-    "$oid": "60e31c8a2320990528edab48"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de509"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d638a5bc581903d4df544b"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b76ef22bf819fc33619f"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de50a"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de50b"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de50c"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b7eef22bf819fc3361a5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de50d"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b807f22bf819fc3361a6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de50e"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de50f"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b837f22bf819fc3361a8"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de510"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b85cf22bf819fc3361a9"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de511"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b874f22bf819fc3361aa"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de512"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8fdf22bf819fc3361b0"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de513"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de514"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de515"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de516"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8e4f22bf819fc3361af"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de517"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de518"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
@@ -896,78 +960,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bb036acc902885de519"
+    "$oid": "60d7453e63226910d00defbb"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb036acc902885de51a"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb136acc902885de51b"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bb136acc902885de51c"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de51d"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b76ef22bf819fc33619f"
   },
@@ -976,14 +976,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de51e"
+    "$oid": "60d7453e63226910d00defbc"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b7bbf22bf819fc3361a3"
   },
@@ -992,14 +992,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de51f"
+    "$oid": "60d7453e63226910d00defbd"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b7d5f22bf819fc3361a4"
   },
@@ -1008,14 +1008,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de520"
+    "$oid": "60d7453e63226910d00defbe"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b7eef22bf819fc3361a5"
   },
@@ -1024,14 +1024,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de521"
+    "$oid": "60d7453e63226910d00defbf"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b807f22bf819fc3361a6"
   },
@@ -1040,14 +1040,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de522"
+    "$oid": "60d7453e63226910d00defc0"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b823f22bf819fc3361a7"
   },
@@ -1056,14 +1056,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de523"
+    "$oid": "60d7453e63226910d00defc1"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b837f22bf819fc3361a8"
   },
@@ -1072,14 +1072,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de524"
+    "$oid": "60d7453e63226910d00defc2"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b85cf22bf819fc3361a9"
   },
@@ -1088,14 +1088,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de525"
+    "$oid": "60d7453e63226910d00defc3"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b874f22bf819fc3361aa"
   },
@@ -1104,14 +1104,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de526"
+    "$oid": "60d7453e63226910d00defc4"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b892f22bf819fc3361ab"
   },
@@ -1120,14 +1120,46 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de527"
+    "$oid": "60d7453e63226910d00defc5"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7453e63226910d00defc6"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7453e63226910d00defc7"
+  },
+  "matiere": {
+    "$oid": "60d6391bbc581903d4df544e"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b8e4f22bf819fc3361af"
   },
@@ -1136,14 +1168,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de528"
+    "$oid": "60d7453e63226910d00defc8"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b8fdf22bf819fc3361b0"
   },
@@ -1152,62 +1184,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de529"
+    "$oid": "60d7453e63226910d00defc9"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
+    "$oid": "60d6391bbc581903d4df544e"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de52a"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de52b"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de52c"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
+  "note": "14",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
@@ -1216,910 +1200,174 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32bd936acc902885de52d"
+    "$oid": "60d74f1d63226910d00defca"
   },
   "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de52e"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de52f"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32bd936acc902885de530"
-  },
-  "matiere": {
-    "$oid": "60e31c962320990528edab49"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.5",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de531"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b76ef22bf819fc33619f"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de532"
+    "$oid": "60d74f1d63226910d00defcb"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de533"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b7bbf22bf819fc3361a3"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de534"
+    "$oid": "60d74f1e63226910d00defcc"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f1e63226910d00defcd"
+  },
+  "matiere": {
+    "$oid": "60d63a9cbc581903d4df5453"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b7eef22bf819fc3361a5"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de535"
+    "$oid": "60d74f1e63226910d00defce"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b807f22bf819fc3361a6"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de536"
+    "$oid": "60d74f1e63226910d00defcf"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b823f22bf819fc3361a7"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de537"
+    "$oid": "60d74f1e63226910d00defd0"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b837f22bf819fc3361a8"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de538"
+    "$oid": "60d74f1e63226910d00defd1"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b85cf22bf819fc3361a9"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de539"
+    "$oid": "60d74f1e63226910d00defd2"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b874f22bf819fc3361aa"
   },
-  "semestre": "1",
+  "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c0c36acc902885de53a"
+    "$oid": "60d74f1e63226910d00defd3"
   },
   "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de53b"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de53c"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de53d"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de53e"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b8e4f22bf819fc3361af"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de53f"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b8fdf22bf819fc3361b0"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de540"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de541"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0c36acc902885de542"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0d36acc902885de543"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c0d36acc902885de544"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "11.8",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de548"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b7eef22bf819fc3361a5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de546"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de545"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b76ef22bf819fc33619f"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de547"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de549"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b807f22bf819fc3361a6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de54a"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de54b"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b837f22bf819fc3361a8"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de54c"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b85cf22bf819fc3361a9"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de54d"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b874f22bf819fc3361aa"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de54e"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de54f"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de550"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de551"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b8e4f22bf819fc3361af"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de552"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b8fdf22bf819fc3361b0"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de553"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de554"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b924f22bf819fc3361b2"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de555"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de556"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3536acc902885de557"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c3636acc902885de558"
-  },
-  "matiere": {
-    "$oid": "60e31ca12320990528edab4a"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "13.6",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "1",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de559"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b76ef22bf819fc33619f"
-  },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6d36acc902885de55a"
+    "$oid": "60d74f1e63226910d00defd4"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de55b"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de55c"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b7eef22bf819fc3361a5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de55d"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b807f22bf819fc3361a6"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de55e"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de55f"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b837f22bf819fc3361a8"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de560"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b85cf22bf819fc3361a9"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6d36acc902885de561"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b874f22bf819fc3361aa"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6e36acc902885de562"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6e36acc902885de563"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6e36acc902885de564"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c6e36acc902885de565"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b892f22bf819fc3361ab"
   },
@@ -2128,14 +1376,30 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de566"
+    "$oid": "60d74f1e63226910d00defd5"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f1e63226910d00defd6"
+  },
+  "matiere": {
+    "$oid": "60d63a9cbc581903d4df5453"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b8c3f22bf819fc3361ad"
   },
@@ -2144,14 +1408,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de567"
+    "$oid": "60d74f1e63226910d00defd7"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b8e4f22bf819fc3361af"
   },
@@ -2160,14 +1424,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de568"
+    "$oid": "60d74f1e63226910d00defd8"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a9cbc581903d4df5453"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b8fdf22bf819fc3361b0"
   },
@@ -2176,78 +1440,974 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de569"
+    "$oid": "60d74f7e63226910d00defd9"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d6385cbc581903d4df5449"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
   "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
+    "$oid": "60d5b76ef22bf819fc33619f"
   },
-  "semestre": "2",
+  "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de56a"
+    "$oid": "60d74f7e63226910d00defda"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d6385cbc581903d4df5449"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defdb"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defdc"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defdd"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defde"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defdf"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defe0"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defe1"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defe2"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defe3"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defe4"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74f7f63226910d00defe5"
+  },
+  "matiere": {
+    "$oid": "60d6385cbc581903d4df5449"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
-  "semestre": "2",
+  "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de56b"
+    "$oid": "60d74f7f63226910d00defe6"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d6385cbc581903d4df5449"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
   "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
+    "$oid": "60d5b8c3f22bf819fc3361ad"
   },
-  "semestre": "2",
+  "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c6e36acc902885de56c"
+    "$oid": "60d74f7f63226910d00defe7"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d6385cbc581903d4df5449"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "17",
+  "note": "15",
   "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
+    "$oid": "60d5b8e4f22bf819fc3361af"
   },
-  "semestre": "2",
+  "semestre": "1",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de56d"
+    "$oid": "60d74fdf63226910d00defe8"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defe9"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defea"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defeb"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defec"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defed"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defee"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00defef"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff0"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff1"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff2"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff3"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff4"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff5"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d74fdf63226910d00deff6"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deff7"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "10.5",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deff8"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deff9"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deffa"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deffb"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deffc"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deffd"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00deffe"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00defff"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00df000"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00df001"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00df002"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00df003"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00df004"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7500063226910d00df005"
+  },
+  "matiere": {
+    "$oid": "60d63881bc581903d4df544a"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df006"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df007"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df008"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df009"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df00a"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df00b"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df00c"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df00d"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df00e"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df00f"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df010"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df011"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504063226910d00df012"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504163226910d00df013"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7504163226910d00df014"
+  },
+  "matiere": {
+    "$oid": "60d638a5bc581903d4df544b"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "15",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df015"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b76ef22bf819fc33619f"
   },
@@ -2256,158 +2416,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de56e"
+    "$oid": "60d750c563226910d00df016"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a81bc581903d4df5452"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de56f"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de570"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b7eef22bf819fc3361a5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de571"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b807f22bf819fc3361a6"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de572"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de573"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b837f22bf819fc3361a8"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de574"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b85cf22bf819fc3361a9"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de575"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b874f22bf819fc3361aa"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de576"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de577"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b8a9f22bf819fc3361ac"
   },
@@ -2416,30 +2432,158 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de578"
+    "$oid": "60d750c563226910d00df018"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a81bc581903d4df5452"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "10.5",
+  "note": "13",
   "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
+    "$oid": "60d5b7eef22bf819fc3361a5"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de579"
+    "$oid": "60d750c563226910d00df017"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a81bc581903d4df5452"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "10.5",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df019"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df01a"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df01b"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df01c"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df01d"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df01e"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c563226910d00df01f"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750c663226910d00df020"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b8e4f22bf819fc3361af"
   },
@@ -2448,14 +2592,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de57a"
+    "$oid": "60d750c663226910d00df021"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a81bc581903d4df5452"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "10.5",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b8fdf22bf819fc3361b0"
   },
@@ -2464,30 +2608,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de57b"
+    "$oid": "60d750c663226910d00df022"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
+    "$oid": "60d63a81bc581903d4df5452"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de57c"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
@@ -2496,254 +2624,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32c9636acc902885de57d"
+    "$oid": "60d750c663226910d00df023"
   },
   "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de57e"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de57f"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32c9636acc902885de580"
-  },
-  "matiere": {
-    "$oid": "60e31ce92320990528edab4e"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "10.5",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc536acc902885de581"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b76ef22bf819fc33619f"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de582"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de583"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de584"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b7eef22bf819fc3361a5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de585"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b807f22bf819fc3361a6"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de586"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de587"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b837f22bf819fc3361a8"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de588"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b85cf22bf819fc3361a9"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de589"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de58a"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b874f22bf819fc3361aa"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de58b"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de58c"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b8c3f22bf819fc3361ad"
   },
@@ -2752,158 +2640,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cc636acc902885de58d"
+    "$oid": "60d750ea63226910d00df024"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b8fdf22bf819fc3361b0"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de58e"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b8e4f22bf819fc3361af"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de58f"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de590"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b924f22bf819fc3361b2"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de591"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de592"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de593"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cc636acc902885de594"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "12",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cf436acc902885de597"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b7d5f22bf819fc3361a4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cf436acc902885de595"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b76ef22bf819fc33619f"
   },
@@ -2912,14 +2656,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de596"
+    "$oid": "60d750eb63226910d00df025"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b7bbf22bf819fc3361a3"
   },
@@ -2928,14 +2672,30 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de598"
+    "$oid": "60d750eb63226910d00df026"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d750eb63226910d00df027"
+  },
+  "matiere": {
+    "$oid": "60d63a81bc581903d4df5452"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b7eef22bf819fc3361a5"
   },
@@ -2944,14 +2704,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de599"
+    "$oid": "60d750eb63226910d00df028"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b807f22bf819fc3361a6"
   },
@@ -2960,14 +2720,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de59a"
+    "$oid": "60d750eb63226910d00df029"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b823f22bf819fc3361a7"
   },
@@ -2976,14 +2736,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de59b"
+    "$oid": "60d750eb63226910d00df02a"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b837f22bf819fc3361a8"
   },
@@ -2992,14 +2752,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de59c"
+    "$oid": "60d750eb63226910d00df02b"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b85cf22bf819fc3361a9"
   },
@@ -3008,14 +2768,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de59d"
+    "$oid": "60d750eb63226910d00df02c"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b874f22bf819fc3361aa"
   },
@@ -3024,14 +2784,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de59e"
+    "$oid": "60d750eb63226910d00df02d"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b892f22bf819fc3361ab"
   },
@@ -3040,14 +2800,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de59f"
+    "$oid": "60d750eb63226910d00df02e"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b8a9f22bf819fc3361ac"
   },
@@ -3056,14 +2816,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf436acc902885de5a0"
+    "$oid": "60d750eb63226910d00df02f"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "16",
+  "note": "13",
   "etudiant": {
     "$oid": "60d5b8c3f22bf819fc3361ad"
   },
@@ -3072,10 +2832,10 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf536acc902885de5a1"
+    "$oid": "60d750eb63226910d00df030"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
@@ -3088,26 +2848,10 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf536acc902885de5a2"
+    "$oid": "60d750eb63226910d00df031"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cf536acc902885de5a3"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
@@ -3120,10 +2864,10 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf536acc902885de5a4"
+    "$oid": "60d750eb63226910d00df032"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
+    "$oid": "60d63a81bc581903d4df5452"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
@@ -3136,78 +2880,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32cf536acc902885de5a5"
+    "$oid": "60d7511f63226910d00df033"
   },
   "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cf536acc902885de5a6"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cf536acc902885de5a7"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32cf536acc902885de5a8"
-  },
-  "matiere": {
-    "$oid": "60e31d032320990528edab50"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "16",
-  "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d3b36acc902885de5a9"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b76ef22bf819fc33619f"
   },
@@ -3216,14 +2896,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5aa"
+    "$oid": "60d7511f63226910d00df034"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b7bbf22bf819fc3361a3"
   },
@@ -3232,14 +2912,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5ab"
+    "$oid": "60d7511f63226910d00df035"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b7d5f22bf819fc3361a4"
   },
@@ -3248,14 +2928,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5ac"
+    "$oid": "60d7511f63226910d00df036"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b7eef22bf819fc3361a5"
   },
@@ -3264,14 +2944,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5ad"
+    "$oid": "60d7511f63226910d00df037"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b807f22bf819fc3361a6"
   },
@@ -3280,14 +2960,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5ae"
+    "$oid": "60d7511f63226910d00df038"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b823f22bf819fc3361a7"
   },
@@ -3296,14 +2976,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5af"
+    "$oid": "60d7511f63226910d00df039"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b837f22bf819fc3361a8"
   },
@@ -3312,14 +2992,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5b0"
+    "$oid": "60d7511f63226910d00df03a"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b85cf22bf819fc3361a9"
   },
@@ -3328,14 +3008,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5b1"
+    "$oid": "60d7511f63226910d00df03b"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b874f22bf819fc3361aa"
   },
@@ -3344,78 +3024,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5b2"
+    "$oid": "60d7511f63226910d00df03c"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d3b36acc902885de5b3"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b892f22bf819fc3361ab"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d3b36acc902885de5b4"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8a9f22bf819fc3361ac"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d3b36acc902885de5b5"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8c3f22bf819fc3361ad"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d3b36acc902885de5b6"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b8e4f22bf819fc3361af"
   },
@@ -3424,30 +3040,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5b7"
+    "$oid": "60d7511f63226910d00df03d"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
-  "etudiant": {
-    "$oid": "60d5b8fdf22bf819fc3361b0"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d3b36acc902885de5b8"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "ds",
-  "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
@@ -3456,94 +3056,78 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5b9"
+    "$oid": "60d7511f63226910d00df03e"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
+    "$oid": "60d5b892f22bf819fc3361ab"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5ba"
+    "$oid": "60d7511f63226910d00df03f"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
+    "$oid": "60d5b8a9f22bf819fc3361ac"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5bb"
+    "$oid": "60d7511f63226910d00df040"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
+    "$oid": "60d5b8c3f22bf819fc3361ad"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d3b36acc902885de5bc"
+    "$oid": "60d7511f63226910d00df041"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "15.5",
+  "note": "16",
   "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
+    "$oid": "60d5b8fdf22bf819fc3361b0"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6d36acc902885de5be"
+    "$oid": "60d7515063226910d00df042"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
-  "etudiant": {
-    "$oid": "60d5b7bbf22bf819fc3361a3"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d6d36acc902885de5bd"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b76ef22bf819fc33619f"
   },
@@ -3552,14 +3136,30 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6d36acc902885de5bf"
+    "$oid": "60d7515063226910d00df043"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "16",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7515063226910d00df044"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b7d5f22bf819fc3361a4"
   },
@@ -3568,14 +3168,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6d36acc902885de5c0"
+    "$oid": "60d7515063226910d00df045"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b7eef22bf819fc3361a5"
   },
@@ -3584,30 +3184,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6d36acc902885de5c1"
+    "$oid": "60d7515163226910d00df046"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
-  "etudiant": {
-    "$oid": "60d5b823f22bf819fc3361a7"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d6e36acc902885de5c2"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "16",
   "etudiant": {
     "$oid": "60d5b807f22bf819fc3361a6"
   },
@@ -3616,14 +3200,30 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c3"
+    "$oid": "60d7515163226910d00df047"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d7515163226910d00df048"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "exam",
+  "annee_universitaire": "2020/2021",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b837f22bf819fc3361a8"
   },
@@ -3632,14 +3232,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c4"
+    "$oid": "60d7515163226910d00df049"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b85cf22bf819fc3361a9"
   },
@@ -3648,14 +3248,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c5"
+    "$oid": "60d7515163226910d00df04a"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b874f22bf819fc3361aa"
   },
@@ -3664,14 +3264,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c6"
+    "$oid": "60d7515163226910d00df04b"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b892f22bf819fc3361ab"
   },
@@ -3680,14 +3280,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c7"
+    "$oid": "60d7515163226910d00df04c"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b8a9f22bf819fc3361ac"
   },
@@ -3696,14 +3296,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c8"
+    "$oid": "60d7515163226910d00df04d"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b8c3f22bf819fc3361ad"
   },
@@ -3712,14 +3312,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5c9"
+    "$oid": "60d7515163226910d00df04e"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b8e4f22bf819fc3361af"
   },
@@ -3728,14 +3328,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5ca"
+    "$oid": "60d7515163226910d00df04f"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b8fdf22bf819fc3361b0"
   },
@@ -3744,30 +3344,14 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5cb"
+    "$oid": "60d7515163226910d00df050"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d6398bbc581903d4df5450"
   },
   "type_note": "exam",
   "annee_universitaire": "2020/2021",
-  "note": "9",
-  "etudiant": {
-    "$oid": "60d5b911f22bf819fc3361b1"
-  },
-  "semestre": "2",
-  "classe": "SEM 3.1",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "60e32d6e36acc902885de5cc"
-  },
-  "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
-  },
-  "type_note": "exam",
-  "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11.5",
   "etudiant": {
     "$oid": "60d5b924f22bf819fc3361b2"
   },
@@ -3776,64 +3360,1440 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5cd"
+    "$oid": "60d9c82b8850830874bcdaa7"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d638edbc581903d4df544d"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "11",
   "etudiant": {
-    "$oid": "60d5b936f22bf819fc3361b3"
+    "$oid": "60d5b76ef22bf819fc33619f"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5ce"
+    "$oid": "60d9c82b8850830874bcdaa8"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d638edbc581903d4df544d"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "0",
   "etudiant": {
-    "$oid": "60d5b949f22bf819fc3361b4"
+    "$oid": "60d5b7bbf22bf819fc3361a3"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5cf"
+    "$oid": "60d9c82b8850830874bcdaa9"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d638edbc581903d4df544d"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "0",
   "etudiant": {
-    "$oid": "60d5b95cf22bf819fc3361b5"
+    "$oid": "60d5b7d5f22bf819fc3361a4"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
   "__v": 0
 },{
   "_id": {
-    "$oid": "60e32d6e36acc902885de5d0"
+    "$oid": "60d9c82c8850830874bcdaaa"
   },
   "matiere": {
-    "$oid": "60e31d0d2320990528edab51"
+    "$oid": "60d638edbc581903d4df544d"
   },
-  "type_note": "exam",
+  "type_note": "ds",
   "annee_universitaire": "2020/2021",
-  "note": "9",
+  "note": "0",
   "etudiant": {
-    "$oid": "60d5b973f22bf819fc3361b6"
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdaab"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdaac"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdaad"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdaae"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdaaf"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdab0"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdab1"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdab2"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdab3"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdab4"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9c82c8850830874bcdab5"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "ds",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd687eeef14e842284c"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "11",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e842284d"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e842284e"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e842284f"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422850"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422851"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422852"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422853"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422854"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422855"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422856"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422857"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422858"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e8422859"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cdd787eeef14e842285a"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e842285b"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "12",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e842285c"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e842285d"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e842285e"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e842285f"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422860"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422861"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422862"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422863"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422864"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422865"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422866"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422867"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422868"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce0087eeef14e8422869"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e842286a"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "11.6",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e842286b"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e842286c"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e842286d"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e842286e"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e842286f"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce3f87eeef14e8422870"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422871"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422872"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422873"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422874"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422875"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422876"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422877"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9ce4087eeef14e8422878"
+  },
+  "matiere": {
+    "$oid": "60d638edbc581903d4df544d"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c758394"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "14.3",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c758395"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c758396"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c758397"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c758398"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c75839a"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c758399"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c75839b"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c75839c"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c75839d"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c75839e"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c75839f"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c7583a0"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c7583a1"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9cf77ef1a681b5c7583a2"
+  },
+  "matiere": {
+    "$oid": "60d63933bc581903d4df544f"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
+  },
+  "semestre": "1",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b12e"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "16.80",
+  "etudiant": {
+    "$oid": "60d5b76ef22bf819fc33619f"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b12f"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7bbf22bf819fc3361a3"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b130"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7d5f22bf819fc3361a4"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b131"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b7eef22bf819fc3361a5"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b132"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b807f22bf819fc3361a6"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b133"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b837f22bf819fc3361a8"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b134"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b823f22bf819fc3361a7"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b135"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b85cf22bf819fc3361a9"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b136"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b874f22bf819fc3361aa"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b137"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b892f22bf819fc3361ab"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b138"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8a9f22bf819fc3361ac"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b139"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8c3f22bf819fc3361ad"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b13a"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8e4f22bf819fc3361af"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b13b"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b8fdf22bf819fc3361b0"
+  },
+  "semestre": "2",
+  "classe": "SEM 3.1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d9f75d8be4661fb0f4b13c"
+  },
+  "matiere": {
+    "$oid": "60d6398bbc581903d4df5450"
+  },
+  "type_note": "tp",
+  "annee_universitaire": "2020/2021",
+  "note": "0",
+  "etudiant": {
+    "$oid": "60d5b924f22bf819fc3361b2"
   },
   "semestre": "2",
   "classe": "SEM 3.1",
